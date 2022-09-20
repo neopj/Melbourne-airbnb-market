@@ -1,4 +1,4 @@
-# Melbourne-Airbnb-Market
+# Data Exploration on Melbourne Airbnb Market
 
 People expect tourism recovery after Covid border restrictions becoming history. When visitors’ numbers scale up as before, Airbnb will be one of the hot careers against a routine work. For those willing to be an Airbnb host or a professional host, how to set price is definitely a priority. 
 
