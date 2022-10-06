@@ -5,7 +5,11 @@ Many people from regional areas want to be an Airbnb host after tourism revoluti
 There was total 17,751 observations recording 74 features in Melbourne Airbnb market from 2009 to present, which I obtained from the insightsairbnb website. 
 
 Questions were below, 
-Q1. Why price was higher in some part of Melbourne? Q2. Why some room type asked for higher price? Q3. How Airbnb price has been changed by year and region? Q4. What was relationship between host number and price? Q5. Need we pay more for the Airbnb room owned by a super host?
+Q1. Why price was higher in some part of Melbourne? 
+Q2. Why some room type asked for higher price? 
+Q3. How Airbnb price has been changed by year and region?
+Q4. What was relationship between host number and price?
+Q5. Need we pay more for the Airbnb room owned by a super host?
 
 Challenges were below,
 1. Outlier definition.
